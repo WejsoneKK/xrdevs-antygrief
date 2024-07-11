@@ -1,0 +1,14 @@
+blacklistedBlocks:
+  - STONE
+  - DIRT
+  - WATER
+  - LAVA
+
+removalTimes:
+  STONE: 60
+  DIRT: 120
+  WATER: 30
+  LAVA: 30
+
+
+defaultRemovalTime: 60

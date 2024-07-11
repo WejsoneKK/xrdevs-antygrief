@@ -1,0 +1,7 @@
+main: eu.wejsonekk.xrdevs.antygrief.AntyGriefPlugin
+name: "xrdevs-antygrief"
+version: "0.1.0-InDev"
+api-version: "1.13"
+website: "https://xr-code.pl"
+description: "AntyGrief Plugin"
+author: "WejsoneKKEU | xr-code.pl"
